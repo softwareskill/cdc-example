@@ -6,5 +6,5 @@ Implementacja CDC: Spring Cloud Contract
 
 Linki:
 
-* [Consumer-Driven Contract (CDC)](https://maven.apache.org/guides/index.html) - artykuł na SoftwareSkill.pl
+* [Consumer-Driven Contract (CDC)](https://softwareskill.pl/consumer-driven-contract) - artykuł na SoftwareSkill.pl
 * [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract)
