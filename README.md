@@ -1,5 +1,7 @@
 # Consumer-Driven Contract example
 
+![Java CI with Maven](https://github.com/softwareskill/cdc-example/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 Przykładowy projekt pokazujący zastosowanie Consumer-Driven Contract.
 
 Implementacja CDC: Spring Cloud Contract 

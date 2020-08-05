@@ -25,5 +25,12 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-webflux</artifactId>
         </dependency>
+
+        <!-- build provider first -->
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>provider</artifactId>
+            <version>${project.version}</version>
+        </dependency>
     </dependencies>
 </project>
